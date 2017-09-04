@@ -1,2 +1,2 @@
 # json-visualizer
-Helps to visulize the json data
+Helps to visualize the json data
